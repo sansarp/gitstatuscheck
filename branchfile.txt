@@ -1,3 +1,5 @@
 content for branch file first written line
 
 This is my second commit for this branch file.
+
+Actually this change is to test the merge commit...its d 3rd commit in branchfile 
