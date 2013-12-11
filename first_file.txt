@@ -2,3 +2,5 @@ first file created under master and first commit
 GS-26Feature branch this line added under the same branch to be committed to master.
 
 GS-26feature test for merge status
+
+added test line being at master branch
